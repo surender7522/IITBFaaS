@@ -1,0 +1,5 @@
+FROM scratch
+ADD b /
+ADD form.html /
+ADD main /
+CMD ["/main"]

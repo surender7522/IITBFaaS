@@ -1,0 +1,8 @@
+Steps:
+1. Place your statically compiled binary in this folder
+2. Edit code in two places in main.go, as described in the file
+3. run build.sh, push the image manually if network fails
+4. Pull the image in all the nodes, if network failed in previous step
+5. If you want to remove the function, also clean the relevant docker-compose.yml and prometheus.yml
+
+**DONT TOUCH THE NAME OF readme, Dockerfile.scratch, build.sh, main.go**
