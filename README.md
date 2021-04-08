@@ -1,5 +1,14 @@
 # IITBFaaS
-(Project Workings PDF available)
+[Project Report with architecture and tests](https://github.com/surender7522/IITBFaaS/blob/master/ProjectReport.pdf)
+
+# Architecture
+<img width="483" alt="Screen Shot 2021-04-08 at 15 10 05" src="https://user-images.githubusercontent.com/10762179/113976937-c1386f80-987c-11eb-949e-df2e57780e50.png">
+
+<img width="974" alt="Screen Shot 2021-04-08 at 15 09 58" src="https://user-images.githubusercontent.com/10762179/113976957-c85f7d80-987c-11eb-98ea-bc8292f374e1.png">
+
+<img width="958" alt="Screen Shot 2021-04-08 at 15 10 19" src="https://user-images.githubusercontent.com/10762179/113976963-cc8b9b00-987c-11eb-869e-65c5251cec9a.png">
+
+
 Contents:
 1. Installation
 2. Setup of nodes
